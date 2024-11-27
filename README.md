@@ -1,10 +1,3 @@
-# Course description
-This course provides fundamental concepts in probability and statistical
-inference, with application to engineering contexts. Probability topics include counting
-methods, discrete and continuous random variables, and their associated distributions.
-Statistical inference topics include sampling distributions, point estimation, confidence intervals
-and hypothesis testing for single- and two-sample experiments, nonparametric statistics, and
-goodness-of-fit testing. Excel will be used to demonstrate how to solve some class examples,
-and you'll be expected to use Excel to solve some homework problems. The statistical software
-package R will be introduced to address basic statistics problems and to prepare you for future
-coursework. Course prerequisites include calculus (differentiation and integration).
+# Showcasing My Statistical Work
+
+This repository showcases my master's work in statistics, covering fundamental concepts in **probability** and **statistical inference** with practical applications to engineering and data modeling. Topics include counting methods, random variables, sampling distributions, confidence intervals, hypothesis testing, nonparametric statistics, and goodness-of-fit testing. You'll also find examples demonstrating the use of **Excel** for solving statistical problems and the statistical software package **R** for addressing basic statistics and preparing for advanced coursework. Designed for learners with a calculus background (differentiation and integration), this repository provides structured problems and solutions, making it an excellent resource for building a strong foundation in statistical methods and modeling.
